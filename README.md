@@ -13,12 +13,12 @@ _Complements data exploration techniques through graphical visualization, with t
 
   - Create at least one view for:
 
-   * A categorical variable (UniqueCarrier)
-   * A numeric variable (ArrDelay)
-   * A numeric and a categorical variable (ArrDelay and UniqueCarrier)
-   * Two numeric variables (ArrDelay and DepDelay)
-   * Three variables (ArrDelay, DepDelay and UniqueCarrier)
-   * More than three variables (ArrDelay, DepDelay, AirTime and UniqueCarrier).
+    + A categorical variable (UniqueCarrier)
+    + A numeric variable (ArrDelay)
+    + A numeric and a categorical variable (ArrDelay and UniqueCarrier)
+    + Two numeric variables (ArrDelay and DepDelay)
+    + Three variables (ArrDelay, DepDelay and UniqueCarrier)
+    + More than three variables (ArrDelay, DepDelay, AirTime and UniqueCarrier).
 
 # Exercise 2
 - Export graphics as images or as html.

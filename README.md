@@ -9,7 +9,7 @@
 _Complements data exploration techniques through graphical visualization, with the Matplotlib and Searborn libraries._
 
 # Exercise 1
-  - Graphically summarize the date set DelayedFlights.csv
+  - Summarize the date set DelayedFlights.csv graphically
 
   - Create at least one view for:
 
